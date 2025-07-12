@@ -1,0 +1,7 @@
+fyers-apiv3
+pandas
+gcsfs
+google-cloud-storage
+python-telegram-bot
+requests
+pyarrow
